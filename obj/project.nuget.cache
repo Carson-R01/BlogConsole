@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CdD9MILHu9Q=",
+  "dgSpecHash": "ztknzwtSqhA=",
   "success": true,
   "projectFilePath": "/Users/carsonreiter/Downloads/DotNet/BlogConsole/BlogConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/carsonreiter/.nuget/packages/nlog/5.3.3/nlog.5.3.3.nupkg.sha512"
+  ],
   "logs": []
 }
